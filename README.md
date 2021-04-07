@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/elastic/next-eui-starter)
+
 <p align="center">
   <img src="src/images/logo_elastic.png" width="60"  alt="Elastic Logo"/>
 </p>
